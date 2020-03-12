@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77792335-0731-4167-ab11-f375906655ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab3/lab3/GornerTableCellRenderer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab3/lab3/GornerTableModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab3/lab3/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab3/lab3/MainFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab3/lab3/MainFrame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab3/lab3/MainFrame$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab3/lab3/MainFrame$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lab3/lab3/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/GornerTableCellRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/GornerTableModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab3/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/Laba_1C.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/META-INF/Laba_1C.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/laba_1C/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/laba_1C/Cheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/laba_1C/Consumable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/laba_1C/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/laba_1C/MainApplication$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/laba_1C/MainApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/laba_1C/Nutritous.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/out/production/Laba_1C/laba_1C/Sandwich.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/src/laba_1C/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/src/laba_1C/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/src/laba_1C/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/src/laba_1C/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/src/laba_1C/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/src/laba_1C/Nutritous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba_1C/src/laba_1C/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/out/production/untitled111/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/out/production/untitled111/Cheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/out/production/untitled111/Consumable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/out/production/untitled111/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/out/production/untitled111/MainApplication$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/out/production/untitled111/MainApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/out/production/untitled111/Nutritous.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/out/production/untitled111/Sandwich.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/src/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/src/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/src/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/src/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/src/Nutritous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/src/Sandwich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.company.Main/untitled111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/lab1my.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/out/production/lab1my/META-INF/lab1my.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/out/production/lab1my/my/progect/Apple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/out/production/lab1my/my/progect/Cheese.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/out/production/lab1my/my/progect/Consumable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/out/production/lab1my/my/progect/Food.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/out/production/lab1my/my/progect/MainApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/out/production/lab1my/my/progect/Pie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/src/my/progect/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/src/my/progect/Cheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/src/my/progect/Consumable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/src/my/progect/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/src/my/progect/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1my/src/my/progect/Pie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/lab4/GraphicsDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/lab4/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/lab4/MainFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/lab4/MainFrame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/lab4/MainFrame$GraphicsMenuListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/lab4/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/lab4/GraphicsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/lab4/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/GraphicsDisplay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/MainFrame$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/MainFrame$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/MainFrame$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/MainFrame$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/MainFrame$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/MainFrame$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/MainFrame$GraphicsMenuListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/out/production/lab5/lab5/MainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/src/lab5/GraphicsDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/src/lab5/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled111/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled12/untitled12.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1UyinjrOdXBzcf4mO4EM6Ed6lye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3.MainFrame" />
+      <module name="Lab3" />
+      <option name="PROGRAM_PARAMETERS" value="124" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\енекн\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77792335-0731-4167-ab11-f375906655ab" name="Default Changelist" comment="" />
+      <created>1576335404589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576335404589</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
