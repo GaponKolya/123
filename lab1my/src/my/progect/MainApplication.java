@@ -3,6 +3,7 @@ package my.progect;
 public class MainApplication {
 
     public static void main(String[] args) throws Exception {
+
         Food[] breakfast = new Food[20];
         int itemsSoFar = 0;
         for (String arg: args) {

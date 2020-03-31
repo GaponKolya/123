@@ -209,6 +209,7 @@ public void actionPerformed(ActionEvent event) {
         buttonCalc.addActionListener(new ActionListener() {
 public void actionPerformed(ActionEvent ev) {
         try {
+            System.out.println("\uD83D\uDC7D");
 // Считать значения начала и конца отрезка, шага
         Double from =
         Double.parseDouble(textFieldFrom.getText());

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78413bde-0583-41c5-b7a6-e5aa0c7bd2f0" name="Default Changelist" comment="" />
+    <list default="true" id="6cb266f6-1150-4872-ae7f-64038885f987" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +11,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -19,11 +18,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1T6Umgibr2TEpoQo26xU1HGlZrv" />
+  <component name="ProjectId" id="1ZZiDv8YfRQJOP56sVuVKQKtcs7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab7" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,14 +35,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my.progect.MainApplication" />
-      <module name="lab1my" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;Apple/маленькое&quot; &quot;Cheese&quot; &quot;Pie/вишнёвый&quot;" />
+  <component name="RunManager" selected="Application.HTMLLocalImages">
+    <configuration name="AutoreplaceSmiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text.AutoreplaceSmiles" />
+      <module name="untitled2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="my.progect.*" />
+          <option name="PATTERN" value="text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HTMLLocalImages" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text.HTMLLocalImages" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text.Main" />
+      <module name="untitled2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,7 +77,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="Application.HTMLLocalImages" />
+        <item itemvalue="Application.AutoreplaceSmiles" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -63,11 +88,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="78413bde-0583-41c5-b7a6-e5aa0c7bd2f0" name="Default Changelist" comment="" />
-      <created>1572780198554</created>
+      <changelist id="6cb266f6-1150-4872-ae7f-64038885f987" name="Default Changelist" comment="" />
+      <created>1585052900830</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572780198554</updated>
+      <updated>1585052900830</updated>
     </task>
     <servers />
   </component>
